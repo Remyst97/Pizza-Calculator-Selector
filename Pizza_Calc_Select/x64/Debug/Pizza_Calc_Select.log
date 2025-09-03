@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Pizza_Calc_Select.cpp
+  Pizza_Calc_SelectDlg.cpp
+  Generating Code...
+C:\Users\redju\source\repos\Pizza_Calc_Select\Pizza_Calc_Select\Pizza_Calc_SelectDlg.cpp(206,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Pizza_Calc_SelectDlg.cpp')
+  
+  Pizza_Calc_Select.vcxproj -> C:\Users\redju\source\repos\Pizza_Calc_Select\x64\Debug\Pizza_Calc_Select.exe
